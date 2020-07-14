@@ -13,3 +13,6 @@ The basic Git workflow consists of the following steps:
 5. Continue at step 1. 
 
 
+Unlike centralized version control systems, Git users can commit new changes,
+without the need of an internet connection. They can offline and then later
+push batches of commits at once to a server - like GitHub or Bitbucket.
