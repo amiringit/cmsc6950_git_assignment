@@ -5,12 +5,6 @@ Linus Torvalds, the creator of the Linux kernel.
 
 The Git workflow involving a remote repository consists of the following steps:
 
-
-1. Create or edit files.
-2. Add the new or changed files to the staging area.
-3. Store your changes in the git repository, by making a commit.
-4. Choose an informative commit message. This helps at a later time to find
-
 1. Pull changes from the remote repository.
 2. Create or edit files.
 3. Add the new or changed files to the staging area.
